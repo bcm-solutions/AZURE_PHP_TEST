@@ -7,3 +7,7 @@
         <?php echo '<p>Hello World</p>'; ?>
     </body>
 </html>
+
+<?php
+    phpinfo();
+?>
